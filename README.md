@@ -1,5 +1,5 @@
 # starbucks
-
+[medium link](https://vensonhunt.medium.com/get-more-profit-with-offers-9b88b9be3b8a)
 # 1. Installation
 
 1. Install Juypterlab first
@@ -28,8 +28,8 @@
 
 # 3. Project Motivation
   By go through the starbucks data, try to find something usefull:
-    1. Does offers decrease the profit?
-    2. How much are the differences made by offers?
+    1. Does offers change customer behavior?
+    2. Does the change of customer behavior make more profit?
    And our final goal: 
    Can we find a way to control the cost of offers, or get more profit from offers?
 # 4. File Descriptions
