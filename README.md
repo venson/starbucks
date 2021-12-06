@@ -48,4 +48,4 @@ But we get 18.89% of the orders with a increase in profit
     
 # 6. Assumption
    1. The model a consist gross profit margin, which is not very accurate for the profit prediction of each order.
-   2. We assume consumers's order follow normal distribution and have consistant pattern, in actual they may come alone or with different numbers of friends, which should make a lot of different. 
+   2. We assume consumers's order follow normal distribution and have consistant pattern, in actual they may come alone or with different numbers of friends, which should make a lot of difference. 
