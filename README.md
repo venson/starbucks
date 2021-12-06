@@ -28,25 +28,32 @@
 
 # 3. Project Motivation
   By go through the starbucks data, try to find something usefull:
+  
     1. Does offers change customer behavior?
     2. Does the change of customer behavior make more profit?
    And our final goal: 
+   
    Can we find a way to control the cost of offers, or get more profit from offers?
 # 4. File Descriptions
    `Starbucks_Capstone_notebook.ipynb`
    The jupyter-lab file for starbucks capstone
+   
    `data/`
    The dictionary of starbucks
 
    The following files are included in this dictionary:
+   
     - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
     - profile.json - demographic data for each customer
     - transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 # 5. Results
-   1. With offers, the profit decreased 67931.25 dollars total,2.43 dollars for each order,if the consumers came to starbucks as usual without offers.
+   1. Offer do make a difference.
+   2. Offers will descrease the profit.
+   
+      With offers, the profit decreased 67931.25 dollars total,2.43 dollars for each order,if the consumers came to starbucks as usual without offers.
 But we get 18.89% of the orders with a increase in profit
-   2. It possible to find a model to predict the profit difference with orders.
+   3. It possible to find a model to predict the profit difference with orders.
     
 # 6. Assumption
    1. The model a consist gross profit margin, which is not very accurate for the profit prediction of each order.
