@@ -33,13 +33,15 @@
    And our final goal: 
    Can we find a way to control the cost of offers, or get more profit from offers?
 # 4. File Descriptions
+   `Starbucks_Capstone_notebook.ipynb`
+   The jupyter-lab file for starbucks capstone
    `data/`
    The dictionary of starbucks
 
    The following files are included in this dictionary:
-    * portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-    * profile.json - demographic data for each customer
-    * transcript.json - records for transactions, offers received, offers viewed, and offers completed
+    - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+    - profile.json - demographic data for each customer
+    - transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 # 5. Results
    1. With offers, the profit decreased 67931.25 dollars total,2.43 dollars for each order,if the consumers came to starbucks as usual without offers.
