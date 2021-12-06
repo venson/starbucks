@@ -17,7 +17,7 @@
       
       + Archlinux
          - It is prefered to install systemwide module from arch official repository instead of pip)
-         - `sudo pacman -S python-pandas python-matplotlib python-seaborn python-scikit-learn python=scipy`
+         - `sudo pacman -S python-pandas python-matplotlib python-seaborn python-scikit-learn python-scipy`
       + Mac
          - `pip install pandas matplotlib seaborn sklearn statsmodels scipy`
 
@@ -42,7 +42,8 @@
     * transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 # 5. Results
-   1. The profit decreased 67931.25 dollars total, 2.43 dollars for each order, but we get 18.89% of the orders with a increase in profit
+   1. With offers, the profit decreased 67931.25 dollars total,2.43 dollars for each order,if the consumers came to starbucks as usual without offers.
+But we get 18.89% of the orders with a increase in profit
    2. It possible to find a model to predict the profit difference with orders.
     
 # 6. Assumption
